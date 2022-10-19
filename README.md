@@ -1,5 +1,5 @@
 # CPSC585
-Artificial Neural Networks
+## Artificial Neural Networks
 
 Project 1: Perceptrons\
 Project 2: Multilayer Network\
